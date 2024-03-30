@@ -1,0 +1,248 @@
+/* CSS Document */
+/*-------main body color------*/
+body
+{
+background:#FF99FF;
+width:100%;
+height:100%;
+margin:auto;
+}
+/*------- this control container directly inside main body color------*/
+.container
+{
+width:98%;
+height:98%;
+background-color:#FFCCCC;
+margin:auto;
+}
+/*-------  banner note; i later ignore this CSS for banner. i later used internal CSS to control banner------*/
+.banner
+{
+}
+
+/*------- Welcome to Bunmson Fabric-----*/
+h1
+{
+width:500px;
+margin:0 auto;
+padding:5px;
+color:#FF0000;
+}
+/*------- realible place to get ur clothing ------*/
+.first-message
+{
+width:500px;
+margin:0 auto;
+color:#0000FF;
+font-size:20px;
+font-family:Georgia, "Times New Roman", Times, serif;
+padding-bottom:10px;
+}
+/*------- control ceo picture and about her------*/
+.second-container
+{
+width:1320px;
+height:auto;
+background-color:#FFCCCC;
+margin:auto;
+}
+.first-im
+{
+width:400px;
+height:380px;
+float:left;
+margin: 2px auto auto 100px;
+padding:20px;
+}
+.ceo-msg
+{
+width:350px;
+margin:0px auto;
+color:#FF0000;
+padding: 80px 0 20px 0;
+}
+.brief-ceo
+{width: 500px;
+height: 300px;
+margin:0px auto;
+line-height:25px;
+color:#0000FF;
+font-size:18px;
+text-align:justify;
+}
+/*------- third ontainer------*/
+.third-container
+{
+width:1250px;
+height:600px;
+margin:30px auto 10px auto;
+padding: 30px;
+}
+.div-pro
+{
+width: 1300px;
+height: 780px;
+margin: auto;
+}
+.pro-each
+{
+width:200px;
+height: 200px;
+margin-left: 10px;
+padding: 20px 0px 20px 0px;
+}
+/*------this control all element in the left side of third-container, all fabrics and information*/
+.left-container
+{
+width:624px;
+height: 600px;
+background: #F9F9F9;
+display: inline-block;
+margin: aut 0px 0px auto;
+}
+/*------this control table in third-container and all element inside the left side of third-container*/
+.leftleft-in
+{
+width: 320px;
+height: 300px;
+margin-top: 0px;
+}
+/* This control all the pictures in the first row table in the third-container*/
+.pic-leftcont
+{
+width: 200px;
+height: 290px;
+display: inline-block;
+margin-top: 0px;
+}
+/* This control description of all pictures in the first row in the table*/
+.decpic-leftcont
+{
+width: 100px;
+height: 250px;
+display: inline-block;
+text-align:left;
+vertical-align: middle;
+font-size: 18px;
+color:#E50003;
+font:bolder;
+font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+}
+.right-container
+{
+width: 620px;
+height: 600px;
+background: #29EBA#EDC6C75;
+display: inline-block;
+margin: auto 0px 0px auto;
+}
+.rightcon-pic
+{
+width: 306px;
+height: 298px;
+display: inline-block;
+}
+/* This class control the form part of the website which is our contact*/
+.form-guide
+{
+	width: 420px;
+	height: auto;
+	margin: auto;
+	font-size: 20px;
+	color: #F9060A;
+	text-align: center;
+}
+.first-formguidedive
+{
+	width: 420px;
+	height: auto;
+	display:inline-block;
+	margin: auto;
+}
+.textadiv
+{
+	width: 600px;
+	height: auto;
+	margin: 10px auto 10px auto;
+}
+.par-contect
+{
+	width: 800px;
+	height: auto;
+	margin: auto;
+	font:italic;
+	font-size: 20px;
+	color: blue;
+	font-family: Constantia, Lucida Bright, DejaVu Serif, Georgia, serif;
+}
+/* This control the footer of the website*/
+.footer
+{
+width:1320px;
+background-color:#FF99FF;
+margin: auto;
+}
+.soc-media
+{
+width:400px;
+height:60px;
+margin:auto;
+padding-top:15px;
+}
+.soc-imageone
+{
+width:70px;
+height:60px;
+margin-left:20px;
+}
+.address-bottom
+{
+width:250px;
+height:120px;
+margin:auto;
+font-size:20px;
+color:#000099;
+text-align:center;
+}
+.bottom-con
+{
+width:900px;
+height:50px;
+margin:auto;
+}
+.botton-menu
+{
+width:auto;
+}
+ul
+{
+	list-style-type:none;
+	margin: auto;
+}
+li
+{
+	float: left;
+	margin: auto;
+	display:inline-block;
+}
+li a
+{
+	list-style-type: none;
+	
+}
+.ab
+{
+width:1260px;
+margin:auto;
+font:Arial, Helvetica, sans-serif;
+font-size:22px;
+color:#0000FF;
+text-align:justify;
+}
+.bfl
+{
+width:500px;
+margin:auto;
+font-size:28px;
+color:#FF0000;
+}
